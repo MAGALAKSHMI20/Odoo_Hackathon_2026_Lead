@@ -289,10 +289,10 @@ TransitOps
 
 # 👨‍💻 Team
 
-Lakshana V
-Magalakshmi B
-Monicka Shree P
-Kiruthiga C M
+* Lakshana V
+* Monicka Shree P
+* Magalakshmi B
+* Kiruthiga C M
 
 ---
 
